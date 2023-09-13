@@ -1,1 +1,1 @@
-Kernel SVM - Ядро метода опорных векторов (МОВ)
+Kernel SVM - Ядро [[Support Vector Machine - SVM]]
