@@ -1,7 +1,8 @@
 #SupervisedLearning 
 ---
 1. [[Линейная классификация - Linear Classification]]
-2. [[Нелинейная классификация - Non-linear Classifiers]]
+2. [[Логистическая регрессия - Logistic Regression]]
+3. [[Нелинейная классификация - Non-linear Classifiers]]
 ---
 ### Техники, применяемые для классификации:
 1. [[Bagging Classifier]]

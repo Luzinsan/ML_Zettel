@@ -1,1 +1,0 @@
-Kernel SVM - Ядро [[Support Vector Machine - SVM]]
