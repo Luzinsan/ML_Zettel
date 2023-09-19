@@ -1,0 +1,4 @@
+- [[Support Vector Classifier]]
+- [[K-Nearest Neighbors Classification]]
+- [[Naive Bayes - Наивный Байес]]
+---

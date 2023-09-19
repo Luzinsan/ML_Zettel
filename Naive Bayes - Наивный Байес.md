@@ -1,1 +1,0 @@
-Naive Bayes - Наивный Байес - [[Bayes Theorem]]
