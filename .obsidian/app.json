@@ -67,7 +67,9 @@
     "Мажорирующий",
     "мажорирующему",
     "Байеса",
-    "Байес"
+    "Байес",
+    "состояние-действие",
+    "CLustering"
   ],
   "showFrontmatter": true,
   "spellcheckLanguages": null,
